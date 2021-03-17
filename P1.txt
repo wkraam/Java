@@ -1,0 +1,2 @@
+1 2 3 4 5 6 7 8 9 10 11 3 4 5 12 13 14 15
+võiks olla, et ta arvutaks a ja b summa, aga tal ei ole viidatud aritkeskmine klassile, ehk ta annab errori, üldse ei muutunud
