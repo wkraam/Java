@@ -13,7 +13,7 @@ compileTestJava.options.encoding = 'UTF-8'
 
 
 application {
-    mainClassName = 'oop.MustRuut'
+    mainClassName = 'oop.Ül6'
 }
 
 javafx {
