@@ -13,7 +13,7 @@ compileTestJava.options.encoding = 'UTF-8'
 
 
 application {
-    mainClassName = 'oop.Kalkulaator'
+    mainClassName = 'oop.TestGui'
 }
 
 javafx {
