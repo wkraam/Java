@@ -1,0 +1,3 @@
+Tellimus{tellija='Priit Pätt', pitsad=[Pitsa{nimetus='Vegetariana', hind=3.4}, Pitsa{nimetus='Peetri Pizza', hind=6.3}], ooteaeg=31}
+Tellimus{tellija='Toomas Tuus', pitsad=[Pitsa{nimetus='Siciliana', hind=5.9}], ooteaeg=31}
+Tellimus{tellija='Peeter Pedajas', pitsad=[Pitsa{nimetus='Americana', hind=3.8}, Pitsa{nimetus='Pizza Picante', hind=6.9}], ooteaeg=34}

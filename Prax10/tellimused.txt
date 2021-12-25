@@ -1,0 +1,6 @@
+Aadu Suur;Pepperone/4.00;Francescana/6.30;Bolognese/5.90
+Eduard Ennatlik;Mafioso/6.30;Al Tonno/4.00
+Priit Pätt;Vegetariana/3.40;Peetri Pizza/6.30
+Toomas Tuus;Siciliana/5.90
+Mari Mammu;Romana/4.00;Pepperone/5.90;Topolino/3.80;Margherita/3.30
+Peeter Pedajas;Americana/3.80;Pizza Picante/6.90

@@ -1,0 +1,12 @@
+Monopoly,2,4,strateegia
+Alias,4,10,seltskond
+Uno,2,10,kaardimäng
+Pandemic,4,2,strateegia
+Jenga,2,10,seltskond
+6. võtab!,2,10,seltskond
+Carcassonne,2,5,strateegia
+Eesti mälumäng,2,6,mälumäng
+Must notsu,2,4,kaardimäng
+iKNOW,2,6,mälumäng
+Ticket to ride,2,5,strateegia
+Saboteur,1,2,kaardimäng

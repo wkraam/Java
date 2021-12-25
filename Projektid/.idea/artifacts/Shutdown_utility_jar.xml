@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shutdown_utility:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shutdown_utility_jar</output-path>
+    <root id="archive" name="Shutdown_utility.jar">
+      <element id="module-output" name="Shutdown_utility" />
+    </root>
+  </artifact>
+</component>
